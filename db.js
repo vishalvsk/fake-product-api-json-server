@@ -1,8 +1,10 @@
 const Car = require("./data/Car.json");
+const login = require("./data/login.json");
 
 
 module.exports = {
- Car
+    Car,
+    login
 }
 
 
