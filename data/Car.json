@@ -240,5 +240,9 @@
       "capacity": 5,
       "price": 38
     }
-  ]
+  ],
+  "login" : {
+    "username": "",
+    "password": ""
+  }
 }
