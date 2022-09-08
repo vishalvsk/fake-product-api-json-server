@@ -1,6 +1,6 @@
 const Car = require("./data/Car.json");
 const login = require("./data/login.json");
-const login = require("./data/hotell.json");
+const login = require("./data/hotel.json");
 
 module.exports = {
   Car,
