@@ -1,11 +1,11 @@
 const Car = require("./data/Car.json");
 const login = require("./data/login.json");
-const login = require("./data/hotel.json");
+const hotel = require("./data/hotel.json");
 
 module.exports = {
   Car,
   login,
-  hotel,
+  hotel
 };
 
 // const items = require("./data/items");
