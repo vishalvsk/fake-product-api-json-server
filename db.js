@@ -1,5 +1,5 @@
 const Car = require("./data/Car.json");
-const login = require("./data/login.json");
+const users = require("./data/users.json");
 const hotel = require("./data/hotel.json");
 
 module.exports = {
