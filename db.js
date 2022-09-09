@@ -4,7 +4,7 @@ const hotel = require("./data/hotel.json");
 
 module.exports = {
   Car,
-  login,
+  users,
   hotel
 };
 
