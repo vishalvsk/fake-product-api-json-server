@@ -1,11 +1,13 @@
 const Car = require("./data/Car.json");
 const users = require("./data/users.json");
 const hotel = require("./data/hotel.json");
+const image = require("./data/image.json");
 
 module.exports = {
   Car,
   users,
-  hotel
+  hotel,
+  image
 };
 
 // const items = require("./data/items");
