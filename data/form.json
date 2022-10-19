@@ -1,6 +1,11 @@
-{ 
-    "user":
-    [
-        
-    ]
+{
+  "Tesla": [
+    {
+      "name": "mohit",
+      "age": "22",
+      "state": "maharastra",
+      "year": "2022",
+      "id": 1
+    }
+  ]
 }
